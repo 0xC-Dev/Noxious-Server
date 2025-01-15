@@ -4,6 +4,8 @@ Noxious Server is the base I use for my C2 server. Using Netty it allows for bet
 
 There will be a full NoxiousC2 released eventually when I finish that
 
+Quick Note: This is by no means, anywhere near being ready to be deployed and still needs ALOT of work
+
 ## Features
 
 - **High Performance**: Powered by Netty, offering efficient NIO-based networking.
