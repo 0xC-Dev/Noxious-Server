@@ -1,8 +1,6 @@
 # NoxiousServer
 
-Noxious Server is the base I use for my C2 server. Using Netty it allows for better performance then the default java sockets and has a more coherent structure making it easy to manage clients.
-
-There will be a full NoxiousC2 released eventually when I finish that
+Noxious Server is the base I use for my C2 server. Using Netty it allows for better performance then the default java sockets and has a more modular structure making it easy to manage clients. There will be a full NoxiousC2 released eventually when I finish that
 
 Quick Note: This is by no means, anywhere near being ready to be deployed and still needs ALOT of work
 
