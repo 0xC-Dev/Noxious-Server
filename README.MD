@@ -69,7 +69,7 @@ I tried to make the packet system as coherent and flexible as possible.
 
 Create and configure a server instance:
 
-```
+```java
 int port = 6060;
 int bossThreads = 1;
 int workerThreads = 8;
@@ -88,7 +88,7 @@ server.start();
 
 Define and register custom packets:
 
-```
+```java
 public class ExamplePacket extends DefinedPacket {  
 
     private String string;
