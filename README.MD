@@ -1,6 +1,6 @@
 # NoxiousServer
 
-MOVED REPO
+# MOVED REPOSITORY ( I CREATED A NEW REPO WHERE I FIXED A HANDFUL OF ISSUES FOUND IN THIS )
 
 
 Noxious Server is the base I use for my C2 server. Using Netty it allows for better performance then the default java sockets and has a more modular structure making it easy to manage clients. There will be a full NoxiousC2 released eventually when I finish that
